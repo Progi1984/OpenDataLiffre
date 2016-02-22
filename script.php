@@ -1,7 +1,7 @@
 <?php
 
-$dirDeliberations = 'archives/deliberations/pdf/';
-$dirDeliberations = 'archives/deliberations/json/';
+$dirDeliberationsPdf = __DIR__.'/archives/deliberations/pdf/';
+$dirDeliberationsJson = __DIR__.'/archives/deliberations/json/';
 
 /*
  * ###1 : Recuperation des fichiers
@@ -27,8 +27,8 @@ foreach ($arrayPage as $page) {
 				$file = str_replace('%20', '_', $file);
 				$file = str_replace('-', '_', $file);
 				$file = str_replace('__', '_', $file);
-				if (! file_exists($dirDeliberations . $file)) {
-					file_put_contents($dirDeliberations . $file, file_get_contents($mainUrl . $match[2]));
+				if (! file_exists($dirDeliberationsPdf . $file)) {
+					file_put_contents($dirDeliberationsPdf . $file, file_get_contents($mainUrl . $match[2]));
 				}
 			}
 		}
@@ -38,3 +38,11 @@ foreach ($arrayPage as $page) {
 /*
  * ###2 : Vérification de la présence du JSON pour le PDF
  */
+$dirPdf = new DirectoryIterator($dirDeliberationsPdf);
+foreach ($dirPdf as $oFile) {
+    if (!$oFile->isDot()) {
+        if(!file_exists($dirDeliberationsJson.$oFile->getBasename('.pdf').'.json')) {
+			echo $oFile->getBasename('.pdf').PHP_EOL;
+		}
+    }
+}
