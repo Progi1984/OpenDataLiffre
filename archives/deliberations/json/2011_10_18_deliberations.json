@@ -1,0 +1,59 @@
+{
+    "date": "2011-10-18",
+    "heure_debut": "20:30:00",
+    "date_convocation": "2011-10-12",
+    "date_affichage": "",
+    "president": "Lo\u00efg CHESNAIS-GIRARD",
+    "presents": {
+		"CHESNAIS-GIRARD Lo\u00efg",
+        "B\u00c9GU\u00c9 Guillaume",
+        "BERTIN Laurent",
+        "BOURCIER V\u00e9ronique",
+        "CLERY Alain",
+        "DEBAINS Jean-Michel",
+        "DESBORDES Pierre-Jean",
+        "DESILES Lucas",
+        "FRANCANNET Chantal",
+        "GENOUEL Jean",
+        "GR\u00c9GOIRE Jean-Yves",
+        "GUEGUEN Dani\u00e8le",
+        "LAFERT\u00c9 Louis",
+        "OULED-SGHA\u00cfER Anne-Laure",
+        "RABARDEL Pascale",
+        "RANSONNETTE Marie-Pierre",
+        "RUCKERT Elsa",
+        "SAINTILAN Denis",
+        "SALA\u00dcN Ronan",
+        "THESSIER Maryvonne"
+    },
+    "pouvoirs": {
+        "BONHEURE Marie-Christine",
+        "CL\u00c9MENT Fran\u00e7oise",
+        "JOUSSEAUME Jean",
+        "LIZ\u00c9 Michel"
+    },
+    "absents": {
+        "BOUVET Fran\u00e7oise",
+        "COLOMBIER Fran\u00e7oise",
+        "FINET Catherine",
+        "FRESSIER PEREIRA Sandra",
+        "MOISAN Jo\u00eblle"
+    },
+    "secretaire": "D\u00c9SILES Lucas",
+    "deliberations": [
+        "N\u00b0 11.214 APPROBATION DES D\u00c9LIB\u00c9RATIONS DU CONSEIL MUNICIPAL DU 23 SEPTEMBRE 2011",
+        "N\u00b0 11.215 IMPLANTATION D'UNE NOUVELLE ANTENNE DE T\u00c9L\u00c9PHONIE MOBILE",
+        "N\u00b0 11.216 PLAN DE PREVENTION DU BRUIT DANS L'ENVIRONNEMENT - CONSULTATION DU PUBLIC DU 7 OCTOBRE AU 7 DECEMBRE 2011",
+        "N\u00b0 11.217 PR\u00c9SENTATION DU RAPPORT D'ACTIVIT\u00c9S DE LA COMMUNAUT\u00c9 DE COMMUNES DU PAYS DE LIFFR\u00c9 - ANN\u00c9E 2010 -",
+        "N\u00b0 11.218 SUBVENTION COMPENSATOIRE A L'UNION SPORTIVE LIFFR\u00c9ENNE POUR LA LOCATION DE LA MAISON 52, AVENUE DE LA FORET",
+        "N\u00b0 11.219 SUBVENTION COMPENSATOIRE A L'U.S.L. NATATION",
+        "N\u00b0 11.220 S\u00c9JOUR AU SKI ORGANIS\u00c9 PAR LE SERVICE JEUNESSE - f\u00e9vrier 2012 -",
+        "N\u00b0 11.221 SUBVENTION COMPENSATOIRE AUX RESTAURANTS DU COEUR POUR LA LOCATION DE LA MAISON 52, AVENUE DE LA FORET",
+        "N\u00b0 11.222 CREATIONS ET TRANSFORMATIONS DE POSTES",
+        "N\u00b0 11.223 VOEU DEMANDANT AU GOUVERNEMENT DE RENONCER A L'AMPUTATION DE 10 % DE LA COTISATION POUR LA FORMATION DES AGENTS TERRITORIAUX",
+        "N\u00b0 11.224 D\u00c9L\u00c9GATION DONN\u00c9E AU MAIRE",
+        "N\u00b0 11.225 DEMANDE DE SUBVENTION DE L'\u00c9TAT POUR L'ACHAT D'UNE URNE \u00c9LECTORALE",
+        "N\u00b0 11.226 FACTURATION DES REPRODUCTIONS DES DOCUMENTS ADMINISTRATIFS",
+        "N\u00b0 11.227 QUESTION D'ACTUALIT\u00c9"
+    ]
+}
